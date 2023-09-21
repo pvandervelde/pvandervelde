@@ -33,6 +33,4 @@ My other interest are:
 
 ## Github stats
 
-![Patrick's Github stats](https://raw.githubusercontent.com/pvandervelde/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![Patrick's most used languages](https://raw.githubusercontent.com/pvandervelde/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Patrick's Github stats](https://raw.githubusercontent.com/pvandervelde/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![Patrick's most used languages](https://raw.githubusercontent.com/pvandervelde/github-stats/master/generated/languages.svg#gh-dark-mode-only)
