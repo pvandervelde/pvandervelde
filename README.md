@@ -24,6 +24,7 @@ My other interest are:
 
 ## Latest
 
+* [Robotics - Making URDF models](https://www.petrikvandervelde.nl/posts/Robotics-making-urdf-models)
 * [Four wheel steering robot - Omnidirectional drive](https://youtu.be/Z-Rp2moiSOw)
 * [Swerve drive - Motion profiles](https://www.petrikvandervelde.nl/posts/Swerve-motion-profiles)
 * [Swerve drive - Control animations](https://www.petrikvandervelde.nl/posts/Swerve-drive-control-animations)
