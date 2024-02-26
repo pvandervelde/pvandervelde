@@ -24,6 +24,9 @@ My other interest are:
 
 ## Latest
 
+* [Swerve drive - Motor limitations](https://www.petrikvandervelde.nl/posts/Swerve-drive-motor-limitations)
+* [Four wheel steering simulation - 0 degree linear to rotation -  velocity limited](https://youtu.be/H7HTa4b6f_0)
+* [Swerve drive - Using Nav2](https://www.petrikvandervelde.nl/posts/Swerve-drive-ros2-nav)
 * [Robotics - Making URDF models](https://www.petrikvandervelde.nl/posts/Robotics-making-urdf-models)
 * [Four wheel steering robot - Omnidirectional drive](https://youtu.be/Z-Rp2moiSOw)
 * [Swerve drive - Motion profiles](https://www.petrikvandervelde.nl/posts/Swerve-motion-profiles)
