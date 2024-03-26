@@ -4,21 +4,19 @@
 <a href="https://www.instagram.com/te.petrik/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="https://www.youtube.com/c/PatrickvanderVelde"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 
-I have been working as Software engineer for the last 15 years. Working in a wide range of industries, from emergency services to the cinema industry. I have worked on projects that involved developing software that was shipped to customers, as well as projects that involved delivery to internal development teams.
+I've been a software engineer for 15 years. I've worked in a range of industries, from emergency services to the cinema, and on projects where software shipped directly customers or to internal development teams.
 
-My main interest is the design and building of an autonomous mobile robot with four wheel independent steering (also known as a swerve drive). The prototype has ROS2 code for [robot description](https://github.com/pvandervelde/zinger_description), the [Gazebo world](https://github.com/pvandervelde/zinger_ignition)
+I'm interested in designing and building autonomous mobile robots with four-wheel independent steering (also known as a swerve drive). The prototype has ROS2 code for [robot description](https://github.com/pvandervelde/zinger_description), the [Gazebo world](https://github.com/pvandervelde/zinger_ignition)
 and the [steering controller](https://github.com/pvandervelde/zinger_swerve_controller).
-Additionally I have also contributed a significant amount of the ROS code
+I've also contributed a significant amount of the ROS code
 for the [SCUTTLE robot](https://github.com/scuttlerobot).
 
-My other interest are:
+Other interests include:
 
-* Autonomous mobile robots
-* Robot Operating System
+* All kinds of autonomous mobile robots
 * Electronics
-* Computer Aided Design (Rhino3d, Fusion360, AutoCad)
-* IOT
-* Climbing
+* Computer Aided Design (Rhino3d, Fusion360, AutoCAD)
+* Rock climbing
 * Gardening
 * Woodworking
 
