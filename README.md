@@ -20,7 +20,7 @@ Other interests include:
 * Gardening
 * Woodworking
 
-## Latest
+## Latest Posts
 
 * [Swerve drive - Motor limitations](https://www.petrikvandervelde.nl/posts/Swerve-drive-motor-limitations)
 * [Four wheel steering simulation - 0 degree linear to rotation -  velocity limited](https://youtu.be/H7HTa4b6f_0)
@@ -32,6 +32,12 @@ Other interests include:
 * [Swerve drive - Better movement by controlling the body motions](https://www.petrikvandervelde.nl/posts/Swerve-drive-body-focussed-control)
 * [Swerve drive - Verification of the kinematics solution](https://www.petrikvandervelde.nl/posts/Swerve-drive-kinematics-verification)
 * [Four wheel steering model with ROS2 controllers - Ignition Gazebo first movement](https://youtu.be/fR47Y7p4mtQ)
+
+## Latest Releases
+
+* **Swerve Vehicle Descriptors - 0.1.0**
+  * [Github Release](https://github.com/pvandervelde/swerve_vehicle_descriptors/releases/tag/v0.1.0)
+  * [crates.io](https://crates.io/crates/swerve_vehicle_descriptors)
 
 ## Github stats
 
